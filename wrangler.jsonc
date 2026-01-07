@@ -1,0 +1,5 @@
+{
+	"name": "cloudflare-cors-anywhere",
+	"compatibility_date": "2026-01-07",
+	"main": "worker.js"
+}
